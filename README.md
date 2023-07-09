@@ -1,4 +1,4 @@
-# UvA_Thesis
+# UvA Master Thesis
 
 Master thesis Title: Advancing Cross-Cultural Comics: Developing Robust Image Embedding Models for Accurate Measurement of Comic Similarity
 
